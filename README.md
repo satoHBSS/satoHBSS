@@ -9,7 +9,7 @@ satoHBSS/satoHBSS is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-'''mermaid
+```mermaid
 graph TD
     A(気分が良くなるよ) --> B(一度だけなら...)
     B --> C(薬の効力が切れると......)
@@ -20,4 +20,4 @@ graph TD
     F --> G(一時的に欲求は満たされます)
     G --> H(薬のことしか考えられなくなります)
     H --> D
-'''
+```
