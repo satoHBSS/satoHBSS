@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ```mermaid
-graph TD
+graph 
     A(気分が良くなるよ) --> B(一度だけなら...)
     B --> C(薬の効力が切れると......)
 
