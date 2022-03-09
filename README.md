@@ -30,7 +30,7 @@ graph TD
 gantt
   excludes weekends
 
-  Completed task :done,   a1, 2022-01-03, 3d
-  Active task    :active, a2, after a1,   3d
-  Future task    :        a3, after a2,   1d
+  task1 :done,   a1, 2022-01-03, 3d
+  task2    :active, a2, after a1,   3d
+  task3    :        a3, after a2,   1d
   ```
